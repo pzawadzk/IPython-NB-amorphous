@@ -1,6 +1,6 @@
 #Modeling amorphous materials
 
-###[Click here to view notebooks](http://nbviewer.ipython.org/github/pzawadzk/Amorphous_materials_ipython_notebooks/tree/master/)
+###[Click here to view notebooks](http://nbviewer.ipython.org/github/pzawadzk/IPython-NB-amorphous/tree/master)
 
 ###Tools:
 - Data Analysis: Python, Numpy, Scipy, Pandas, Statsmodels, Ase, Pylada
